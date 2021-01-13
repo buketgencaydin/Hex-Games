@@ -1,5 +1,6 @@
 --------------------------
 -> Running the test file: 
+
 	$ make -f makefile
 --------------------------
 GAME NOTES
