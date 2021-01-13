@@ -4,6 +4,7 @@
 	$ make -f makefile
 --------------------------
 GAME NOTES
+
 -In the beginning, there is 6 games. Option 1 starts a new game.
 You can play 20 games at most at the same time.
 
